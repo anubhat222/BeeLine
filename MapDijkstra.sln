@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeeLine", "WinFormsApp1\BeeLine.csproj", "{87C332EB-1BD8-4899-88DD-4D91F9202D3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87C332EB-1BD8-4899-88DD-4D91F9202D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C332EB-1BD8-4899-88DD-4D91F9202D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C332EB-1BD8-4899-88DD-4D91F9202D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C332EB-1BD8-4899-88DD-4D91F9202D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8776F98E-979E-468B-9904-B2043BE47139}
+	EndGlobalSection
+EndGlobal
